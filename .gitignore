@@ -1,1 +1,6 @@
 /data
+
+# Ignore CSV files in the notebook folder
+notebook/books.csv
+notebook/ratings.csv
+notebook/users.csv
